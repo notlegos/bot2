@@ -1,6 +1,4 @@
-/**
- * BOT CODE BELOW
- */
+// BOT CODE BELOW
 input.onButtonPressed(Button.A, function () {
 	
 })

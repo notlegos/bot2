@@ -1,5 +1,5 @@
 {
-    "name": "bot",
+    "name": "bot2(target)",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -34,5 +34,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
